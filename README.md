@@ -44,7 +44,5 @@ This guide will walk you through the steps to obtain an API key from OpenAI, whi
 - **Never share your API key publicly** or with anyone you do not trust.
 - It's recommended to use environment variables or a secrets manager to handle your API keys within your applications.
 
-## Using the API Key
 
-With your API key, you can now access OpenAI's API by including it in the HTTP header of your requests like this:
 
