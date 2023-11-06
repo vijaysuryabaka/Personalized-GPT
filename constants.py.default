@@ -1,0 +1,4 @@
+# Replace with your own OpenAI API Key https://platform.openai.com/account/api-keys
+# and rename this file to constants.py.
+APIKEY = "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"
+PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
